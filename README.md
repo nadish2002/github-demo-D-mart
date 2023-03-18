@@ -1,2 +1,2 @@
 # D-mart
-# contains all shops list
+# contains about buildings shop list and its needs of supply
